@@ -1,0 +1,6 @@
+text,label
+"Congratulations! You won a free iPhone. Click here http://fake.com",phishing
+"Your bank account needs verification http://secure-login.com",phishing
+"Meeting scheduled at 10 AM tomorrow",safe
+"Please find the attached report",safe
+"Urgent! Update your password now http://phish.com",phishing
